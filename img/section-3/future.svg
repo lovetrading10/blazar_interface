@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="65px" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon</title>
+    <defs>
+        <circle id="path-1" cx="32.5" cy="32.5" r="32.5"></circle>
+    </defs>
+    <g id="Blazar-landing-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.-Blazar-landing-page_deposit" transform="translate(-555.000000, -2729.000000)">
+            <g id="Section-4" transform="translate(0.000000, 2553.000000)">
+                <g id="Boxes" transform="translate(116.000000, 176.000000)">
+                    <g id="Line-1">
+                        <g id="Box-2" transform="translate(439.000000, 0.000000)">
+                            <g id="Icon">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill-opacity="0.8" fill="#9355DE" xlink:href="#path-1"></use>
+                                <polygon id="Navigation" stroke="#F6F5A6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" transform="translate(29.500000, 36.000000) rotate(-90.000000) translate(-29.500000, -36.000000) " points="33.5444397 14 51 58 8 38.9606096 30.4780879 37.2346409"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="65px" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon</title>
+    <defs>
+        <circle id="path-1" cx="32.5" cy="32.5" r="32.5"></circle>
+    </defs>
+    <g id="Blazar-landing-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.-Blazar-landing-page_deposit" transform="translate(-994.000000, -2729.000000)">
+            <g id="Section-4" transform="translate(0.000000, 2553.000000)">
+                <g id="Boxes" transform="translate(116.000000, 176.000000)">
+                    <g id="Line-1">
+                        <g id="Box-3" transform="translate(878.000000, 0.000000)">
+                            <g id="Icon">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill-opacity="0.8" fill="#9355DE" xlink:href="#path-1"></use>
+                                <g id="Toggles" mask="url(#mask-2)">
+                                    <g transform="translate(13.000000, 7.000000)">
+                                        <g id="Group-3-Copy" transform="translate(0.000000, 0.038527)">
+                                            <line x1="3.62513614" y1="49.6907062" x2="3.62513614" y2="0.256945344" id="Path-10" stroke="#5BE4F7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                                            <circle id="Oval-9" fill="#5BE4F7" cx="4" cy="32.9614728" r="4"></circle>
+                                        </g>
+                                        <g id="Group-3-Copy-3" transform="translate(31.180000, 0.038527)">
+                                            <line x1="4.62513614" y1="49.6907062" x2="4.62513614" y2="0.256945344" id="Path-10" stroke="#5BE4F7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                                            <circle id="Oval-9" fill="#5BE4F7" cx="4.82" cy="24.9614728" r="4"></circle>
+                                        </g>
+                                        <g id="Group-3-Copy-2" transform="translate(15.090000, 0.038527)">
+                                            <line x1="4.62513614" y1="49.6907062" x2="4.62513614" y2="0.256945344" id="Path-10" stroke="#F6F5A6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                                            <circle id="Oval-9" fill="#F6F5A6" cx="4.91" cy="15.9614728" r="4"></circle>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
